@@ -1,0 +1,461 @@
+{
+    "version": "0.4",
+    "title": "404",
+    "type": "section",
+    "metadata": {
+        "template_type": "single-404",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "73a50ba1",
+            "settings": {
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "vh",
+                    "size": 0,
+                    "sizes": []
+                },
+                "background_background": "classic",
+                "background_color": "#1F2235",
+                "margin": {
+                    "unit": "px",
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "03",
+                    "right": "0",
+                    "bottom": "3",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=61ff68e",
+                    "border_color": "globals\/colors?id=61ff68e"
+                }
+            },
+            "elements": [
+                {
+                    "id": "6f7040b0",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "57fe38a1",
+                            "settings": {
+                                "height_inner": "min-height",
+                                "custom_height_inner": {
+                                    "unit": "px",
+                                    "size": 450,
+                                    "sizes": []
+                                },
+                                "custom_height_inner_tablet": {
+                                    "unit": "px",
+                                    "size": 270,
+                                    "sizes": []
+                                },
+                                "custom_height_inner_mobile": {
+                                    "unit": "px",
+                                    "size": 135,
+                                    "sizes": []
+                                },
+                                "structure": "30"
+                            },
+                            "elements": [
+                                {
+                                    "id": "72db331d",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "_inline_size_mobile": 33,
+                                        "background_background": "slideshow",
+                                        "background_slideshow_gallery": [
+                                            {
+                                                "id": 1428,
+                                                "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/undraw_woman_mevk-removebg-preview.png"
+                                            },
+                                            {
+                                                "id": 1427,
+                                                "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/undraw_woman_mevk_3_-removebg-preview.png"
+                                            },
+                                            {
+                                                "id": 1426,
+                                                "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/undraw_woman_mevk_1_-removebg-preview.png"
+                                            }
+                                        ],
+                                        "background_slideshow_slide_duration": 0,
+                                        "background_slideshow_slide_transition": "slide_right",
+                                        "background_slideshow_transition_duration": 1500,
+                                        "background_slideshow_background_size": "cover",
+                                        "background_slideshow_background_position": "center center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1e3d990c",
+                                            "settings": {
+                                                "title": "4",
+                                                "header_size": "h1",
+                                                "align": "center",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Montserrat",
+                                                "typography_font_size": {
+                                                    "unit": "em",
+                                                    "size": 31,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_size_tablet": {
+                                                    "unit": "px",
+                                                    "size": 300,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 145,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "600",
+                                                "typography_font_style": "normal",
+                                                "typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1,
+                                                    "sizes": []
+                                                },
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "title_color": ""
+                                                },
+                                                "title_color": "#4A6CED"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "66f510a1",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "_inline_size_mobile": 33,
+                                        "background_background": "slideshow",
+                                        "background_slideshow_gallery": [
+                                            {
+                                                "id": 1427,
+                                                "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/undraw_woman_mevk_3_-removebg-preview.png"
+                                            },
+                                            {
+                                                "id": 1428,
+                                                "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/undraw_woman_mevk-removebg-preview.png"
+                                            },
+                                            {
+                                                "id": 1426,
+                                                "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/undraw_woman_mevk_1_-removebg-preview.png"
+                                            }
+                                        ],
+                                        "background_slideshow_slide_duration": 0,
+                                        "background_slideshow_slide_transition": "slide_right",
+                                        "background_slideshow_transition_duration": 1500,
+                                        "background_slideshow_background_size": "cover",
+                                        "background_slideshow_background_position": "center center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "67725475",
+                                            "settings": {
+                                                "title": "0",
+                                                "header_size": "h1",
+                                                "align": "center",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Montserrat",
+                                                "typography_font_size": {
+                                                    "unit": "em",
+                                                    "size": 31,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_size_tablet": {
+                                                    "unit": "px",
+                                                    "size": 300,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 145,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "600",
+                                                "typography_font_style": "normal",
+                                                "typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1,
+                                                    "sizes": []
+                                                },
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "title_color": ""
+                                                },
+                                                "title_color": "#FD9E01"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "45afbc2",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "_inline_size_mobile": 33,
+                                        "background_background": "slideshow",
+                                        "background_slideshow_gallery": [
+                                            {
+                                                "id": 1426,
+                                                "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/undraw_woman_mevk_1_-removebg-preview.png"
+                                            },
+                                            {
+                                                "id": 1427,
+                                                "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/undraw_woman_mevk_3_-removebg-preview.png"
+                                            },
+                                            {
+                                                "id": 1428,
+                                                "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/undraw_woman_mevk-removebg-preview.png"
+                                            }
+                                        ],
+                                        "background_slideshow_slide_duration": 0,
+                                        "background_slideshow_slide_transition": "slide_right",
+                                        "background_slideshow_transition_duration": 1500,
+                                        "background_slideshow_background_size": "cover",
+                                        "background_slideshow_background_position": "center center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7fe8699d",
+                                            "settings": {
+                                                "title": "4",
+                                                "header_size": "h1",
+                                                "align": "center",
+                                                "typography_typography": "custom",
+                                                "typography_font_family": "Montserrat",
+                                                "typography_font_size": {
+                                                    "unit": "em",
+                                                    "size": 31,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_size_tablet": {
+                                                    "unit": "px",
+                                                    "size": 300,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 145,
+                                                    "sizes": []
+                                                },
+                                                "typography_font_weight": "600",
+                                                "typography_font_style": "normal",
+                                                "typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1,
+                                                    "sizes": []
+                                                },
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "title_color": ""
+                                                },
+                                                "title_color": "#E8F1FA"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "3f6b7be5",
+                            "settings": {
+                                "height_inner": "min-height",
+                                "custom_height_inner": {
+                                    "unit": "px",
+                                    "size": 450,
+                                    "sizes": []
+                                },
+                                "custom_height_inner_tablet": {
+                                    "unit": "px",
+                                    "size": 270,
+                                    "sizes": []
+                                },
+                                "custom_height_inner_mobile": {
+                                    "unit": "px",
+                                    "size": 135,
+                                    "sizes": []
+                                },
+                                "structure": "30",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "-450",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "margin_tablet": {
+                                    "unit": "px",
+                                    "top": "-270",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "margin_mobile": {
+                                    "unit": "px",
+                                    "top": "-135",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "5c934a49",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "_inline_size_mobile": 33,
+                                        "background_background": "slideshow",
+                                        "background_slideshow_gallery": [
+                                            {
+                                                "id": 1425,
+                                                "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/25032758_undraw_woman_mevk-removebg-preview.png"
+                                            },
+                                            {
+                                                "id": 1430,
+                                                "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/25032733_undraw_woman_mevk3-removebg-preview.png"
+                                            },
+                                            {
+                                                "id": 1429,
+                                                "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/25032649_undraw_woman_mevk1-removebg-preview.png"
+                                            }
+                                        ],
+                                        "background_slideshow_slide_duration": 0,
+                                        "background_slideshow_slide_transition": "slide_left",
+                                        "background_slideshow_transition_duration": 2000,
+                                        "background_slideshow_background_size": "cover",
+                                        "background_slideshow_background_position": "center center"
+                                    },
+                                    "elements": [],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "7dac0a16",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "_inline_size_mobile": 33,
+                                        "background_background": "slideshow",
+                                        "background_slideshow_gallery": [
+                                            {
+                                                "id": 1430,
+                                                "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/25032733_undraw_woman_mevk3-removebg-preview.png"
+                                            },
+                                            {
+                                                "id": 1425,
+                                                "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/25032758_undraw_woman_mevk-removebg-preview.png"
+                                            },
+                                            {
+                                                "id": 1429,
+                                                "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/25032649_undraw_woman_mevk1-removebg-preview.png"
+                                            }
+                                        ],
+                                        "background_slideshow_slide_duration": 0,
+                                        "background_slideshow_slide_transition": "slide_left",
+                                        "background_slideshow_transition_duration": 2000,
+                                        "background_slideshow_background_size": "cover",
+                                        "background_slideshow_background_position": "center center"
+                                    },
+                                    "elements": [],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2f8653e",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "_inline_size_mobile": 33,
+                                        "background_background": "slideshow",
+                                        "background_slideshow_gallery": [
+                                            {
+                                                "id": 1429,
+                                                "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/25032649_undraw_woman_mevk1-removebg-preview.png"
+                                            },
+                                            {
+                                                "id": 1430,
+                                                "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/25032733_undraw_woman_mevk3-removebg-preview.png"
+                                            },
+                                            {
+                                                "id": 1425,
+                                                "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/25032758_undraw_woman_mevk-removebg-preview.png"
+                                            }
+                                        ],
+                                        "background_slideshow_slide_duration": 0,
+                                        "background_slideshow_slide_transition": "slide_left",
+                                        "background_slideshow_transition_duration": 2000,
+                                        "background_slideshow_background_size": "cover",
+                                        "background_slideshow_background_position": "center center"
+                                    },
+                                    "elements": [],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

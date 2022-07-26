@@ -1,0 +1,1183 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Agenci - Digital Marketing Agency Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/workspace.depautamadre.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/workspace.depautamadre.com\/template-kit\/agenci-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/workspace.depautamadre.com\/template-kit\/agenci-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.png",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/workspace.depautamadre.com\/template-kit\/agenci-404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.png",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/workspace.depautamadre.com\/template-kit\/agenci-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.png",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/workspace.depautamadre.com\/template-kit\/agenci-faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.png",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/workspace.depautamadre.com\/template-kit\/agenci-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.png",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/workspace.depautamadre.com\/template-kit\/agenci-pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.png",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/workspace.depautamadre.com\/template-kit\/agenci-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.png",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/workspace.depautamadre.com\/template-kit\/agenci-about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.png",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/workspace.depautamadre.com\/template-kit\/agenci-home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.4.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.4",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.4",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Template Kit Import",
+            "version": "1.0.12",
+            "file": "template-kit-import\/template-kit-import.php",
+            "author": "Envato"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Copy_of_Add_a_heading-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/Copy_of_Add_a_heading-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 8926,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "www.depautamadre.com"
+        },
+        {
+            "filename": "undraw_woman_mevk-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/undraw_woman_mevk-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 34867,
+            "dimensions": [
+                502,
+                497
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "undraw.co"
+        },
+        {
+            "filename": "undraw_woman_mevk_3_-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/undraw_woman_mevk_3_-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 35749,
+            "dimensions": [
+                502,
+                497
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "undraw.co"
+        },
+        {
+            "filename": "undraw_woman_mevk_1_-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/undraw_woman_mevk_1_-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 37475,
+            "dimensions": [
+                502,
+                497
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "undraw.co"
+        },
+        {
+            "filename": "25032758_undraw_woman_mevk-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/25032758_undraw_woman_mevk-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 34398,
+            "dimensions": [
+                502,
+                497
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "undraw.co"
+        },
+        {
+            "filename": "25032733_undraw_woman_mevk3-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/25032733_undraw_woman_mevk3-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 35813,
+            "dimensions": [
+                502,
+                497
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "undraw.co"
+        },
+        {
+            "filename": "25032649_undraw_woman_mevk1-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/25032649_undraw_woman_mevk1-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 36020,
+            "dimensions": [
+                502,
+                497
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "undraw.co"
+        },
+        {
+            "filename": "young-creative-woman-in-a-studio-startup-of-small-tailoring-business-.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/young-creative-woman-in-a-studio-startup-of-small-tailoring-business--800x544.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 266654,
+            "dimensions": [
+                2000,
+                1359
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SZCE6KG"
+        },
+        {
+            "filename": "manager-and-staff-discussing-charts-together-in-an-office-boardroom.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/manager-and-staff-discussing-charts-together-in-an-office-boardroom-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 318822,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-K5EW72Y"
+        },
+        {
+            "filename": "businesswoman-commuting-to-work-talking-on-mobile-phone-outside-modern-office-building.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/businesswoman-commuting-to-work-talking-on-mobile-phone-outside-modern-office-building-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 578047,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9Z3S8QR"
+        },
+        {
+            "filename": "marketing-meeting-in-office.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/marketing-meeting-in-office-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 215156,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8G5ZBJV"
+        },
+        {
+            "filename": "c-jgdfngjfgdf__5_-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/c-jgdfngjfgdf__5_-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 21956,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "www.depautamadre.com"
+        },
+        {
+            "filename": "c-jgdfngjfgdf-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/c-jgdfngjfgdf-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 31769,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "www.depautamadre.com"
+        },
+        {
+            "filename": "Untitled_design__4_-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/Untitled_design__4_-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4399,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "www.depautamadre.com"
+        },
+        {
+            "filename": "beautiful-mixed-race-female-customer-service-executive-talking-on-headset-and-working-on-laptop.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/beautiful-mixed-race-female-customer-service-executive-talking-on-headset-and-working-on-laptop-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 343622,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LWME8QX"
+        },
+        {
+            "filename": "Untitled_design__2_-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/Untitled_design__2_-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4678,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "www.depautamadre.com"
+        },
+        {
+            "filename": "woman-shopping-online-using-digital-tablet.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/woman-shopping-online-using-digital-tablet-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 368529,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XMAQEE4"
+        },
+        {
+            "filename": "circle-cropped-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/circle-cropped-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 222929,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CM7XFDS"
+        },
+        {
+            "filename": "circle-cropped__3_-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/circle-cropped__3_-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 148414,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BSBJJBK"
+        },
+        {
+            "filename": "circle-cropped__2_-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/circle-cropped__2_-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 249550,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PLTT5XW"
+        },
+        {
+            "filename": "Business-finance-and-employment-female-successful-entrepreneurs-concept.-Smiling-professional.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/Business-finance-and-employment-female-successful-entrepreneurs-concept.-Smiling-professional.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 144043,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7GWLJL4"
+        },
+        {
+            "filename": "Happy-CEO-at-desk.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/Happy-CEO-at-desk.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 163841,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NV439M2"
+        },
+        {
+            "filename": "Beautiful-businesswoman-at-company.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/Beautiful-businesswoman-at-company.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 152225,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6ZX4JBA"
+        },
+        {
+            "filename": "Untitled_design__8_-removebg-preview-1.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/Untitled_design__8_-removebg-preview-1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 23878,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "canva.com"
+        },
+        {
+            "filename": "Untitled_design__5_-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/Untitled_design__5_-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4808,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "www.depautamadre.com"
+        },
+        {
+            "filename": "Untitled_design__9_-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/Untitled_design__9_-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 13313,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "canva.com"
+        },
+        {
+            "filename": "4A6CED__1_-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/4A6CED__1_-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 21455,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "canva.com"
+        },
+        {
+            "filename": "Untitled_design__7_-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/Untitled_design__7_-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 22700,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "canva.com"
+        },
+        {
+            "filename": "4A6CED-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/4A6CED-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 13598,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "canva.com"
+        },
+        {
+            "filename": "4A6CED__2_-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/4A6CED__2_-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 20685,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "canva.com"
+        },
+        {
+            "filename": "c-jgdfngjfgdf__6_-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/c-jgdfngjfgdf__6_-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 21597,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "www.depautamadre.com"
+        },
+        {
+            "filename": "thoughtful-manager-composing-business-plan.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/thoughtful-manager-composing-business-plan-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 338894,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9F3D8JT"
+        },
+        {
+            "filename": "c-jgdfngjfgdf__1_-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/c-jgdfngjfgdf__1_-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 25473,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "www.depautamadre.com"
+        },
+        {
+            "filename": "Untitled_design__8_-removebg-preview.png",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/Untitled_design__8_-removebg-preview.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 4864,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "www.depautamadre.com"
+        },
+        {
+            "filename": "business.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/business-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 239518,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-T4VVJWS"
+        },
+        {
+            "filename": "concentrated-marketer-working-on-advertising-campaign.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/concentrated-marketer-working-on-advertising-campaign-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 265472,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2CZL6P8"
+        },
+        {
+            "filename": "handsome-businessman-explaining-a-project-to-his-colleagues-on-coworking-place-.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/handsome-businessman-explaining-a-project-to-his-colleagues-on-coworking-place--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 391397,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-URCCTV8"
+        },
+        {
+            "filename": "start-up-business-group-of-young-architect-at-office-team-job.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/start-up-business-group-of-young-architect-at-office-team-job-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 390540,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UXP6EQC"
+        },
+        {
+            "filename": "startup-business-team-brainstorming-on-meeting-workshop.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/startup-business-team-brainstorming-on-meeting-workshop-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 273407,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PWZ78QQ"
+        },
+        {
+            "filename": "keeping-the-company-s-vision-alive.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/keeping-the-company-s-vision-alive-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 461535,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JHF2UKX"
+        },
+        {
+            "filename": "two-people-in-an-office.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/two-people-in-an-office-800x536.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 365802,
+            "dimensions": [
+                2000,
+                1340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SWZWH3C"
+        },
+        {
+            "filename": "new-york-new-york-usa-cityscape-from-central-park.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/new-york-new-york-usa-cityscape-from-central-park-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 662511,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KUGZ23S"
+        },
+        {
+            "filename": "happy-young-lady-using-laptop-at-cafe.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/happy-young-lady-using-laptop-at-cafe-800x527.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 246393,
+            "dimensions": [
+                2000,
+                1318
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5JYR794"
+        },
+        {
+            "filename": "young-graphic-designers-choosing-color-texture-for-new-project.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/young-graphic-designers-choosing-color-texture-for-new-project-800x550.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 361009,
+            "dimensions": [
+                2000,
+                1376
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EZNCAQF"
+        },
+        {
+            "filename": "professional-v-lock-battery-review.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/professional-v-lock-battery-review-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 223888,
+            "dimensions": [
+                2000,
+                1125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-T4FLPGT"
+        },
+        {
+            "filename": "working-on-logo-design.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/working-on-logo-design-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 288992,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DEPV6ZD"
+        },
+        {
+            "filename": "young-business-people-posing-in-office.jpg",
+            "thumbnail_url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/young-business-people-posing-in-office-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 322886,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RFB7DTN"
+        }
+    ]
+}

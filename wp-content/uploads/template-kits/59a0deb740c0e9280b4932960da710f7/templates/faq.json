@@ -1,0 +1,986 @@
+{
+    "version": "0.4",
+    "title": "FAQ",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "4054b8c1",
+            "settings": {
+                "layout": "full_width",
+                "background_background": "classic",
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_color": "#4A6CED"
+            },
+            "elements": [
+                {
+                    "id": "248b2656",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "1892814f",
+                            "settings": {
+                                "title": "FAQ",
+                                "align": "center",
+                                "title_color": "#FFFFFF",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Montserrat",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "700",
+                                "_padding": {
+                                    "unit": "%",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "8",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "fast",
+                                "_animation_delay": 0
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2a4367d5",
+            "settings": [],
+            "elements": [
+                {
+                    "id": "55238ba9",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "653232e3",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 80,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2e36477",
+            "settings": {
+                "structure": "20",
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%"
+            },
+            "elements": [
+                {
+                    "id": "21f2f2ea",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "animation": "fadeInUp",
+                        "animation_duration": "fast",
+                        "animation_delay": 0
+                    },
+                    "elements": [
+                        {
+                            "id": "b56e7e",
+                            "settings": {
+                                "image": {
+                                    "id": 1271,
+                                    "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/marketing-meeting-in-office.jpg",
+                                    "alt": "Marketing Meeting in Office",
+                                    "source": "library"
+                                },
+                                "align": "left",
+                                "align_mobile": "center",
+                                "width": {
+                                    "unit": "%",
+                                    "size": "90",
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "image_box_shadow_box_shadow_type": "yes",
+                                "image_box_shadow_box_shadow": {
+                                    "horizontal": "-40",
+                                    "vertical": "40",
+                                    "blur": "0",
+                                    "spread": "0",
+                                    "color": "#FCAA23"
+                                },
+                                "_z_index": 2,
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1aeb02ec",
+                            "settings": {
+                                "image": {
+                                    "id": 1262,
+                                    "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/c-jgdfngjfgdf__5_-removebg-preview.png",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": "109"
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": -20,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": -19,
+                                    "unit": "px"
+                                },
+                                "_animation": "slideInLeft",
+                                "_offset_x_mobile": {
+                                    "size": -27,
+                                    "unit": "px"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": -15,
+                                    "unit": "px"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1ad2b765",
+                            "settings": {
+                                "image": {
+                                    "id": 1264,
+                                    "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/c-jgdfngjfgdf-removebg-preview.png",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": "203"
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": 275,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 315,
+                                    "unit": "px"
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": "81",
+                                    "sizes": []
+                                },
+                                "_offset_x_tablet": {
+                                    "size": 127,
+                                    "unit": "px"
+                                },
+                                "_offset_x_mobile": {
+                                    "size": 130,
+                                    "unit": "px"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": 205,
+                                    "unit": "px"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": 191,
+                                    "unit": "px"
+                                },
+                                "_z_index": 1,
+                                "_animation": "bounceInRight"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2b39f00c",
+                            "settings": {
+                                "image": {
+                                    "id": 1270,
+                                    "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/Untitled_design__4_-removebg-preview.png",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_z_index": 3,
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": "127"
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": 395,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": -29,
+                                    "unit": "px"
+                                },
+                                "_animation": "zoomIn",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": "68",
+                                    "sizes": []
+                                },
+                                "_offset_x_tablet": {
+                                    "size": 247,
+                                    "unit": "px"
+                                },
+                                "_offset_x_mobile": {
+                                    "size": 253,
+                                    "unit": "px"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": -28,
+                                    "unit": "px"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": -23,
+                                    "unit": "px"
+                                },
+                                "_animation_delay": 700
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "102fbdf0",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "background_background": "classic",
+                        "background_color": "#FFFFFF",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "5",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "border_color": "#FF8264",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "box_shadow_box_shadow_type": "yes",
+                        "box_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 7,
+                            "blur": 40,
+                            "spread": 2,
+                            "color": "rgba(18, 21, 154, 0.1)"
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "40",
+                            "bottom": "0",
+                            "left": "40",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "67c149e3",
+                            "settings": {
+                                "tabs": [
+                                    {
+                                        "tab_title": "How to Install Elementor Page Builder?",
+                                        "tab_content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+                                        "_id": "bd9d5c1"
+                                    },
+                                    {
+                                        "tab_title": "What themes support this Template kit?",
+                                        "tab_content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+                                        "_id": "0e5727c"
+                                    },
+                                    {
+                                        "tab_title": "Missing style sheet error when installing the theme?",
+                                        "tab_content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+                                        "_id": "fd96f43"
+                                    },
+                                    {
+                                        "tab_title": "How to Install Envato Template Kit plugin?",
+                                        "tab_content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+                                        "_id": "0c4a99f"
+                                    },
+                                    {
+                                        "tab_title": "What payment methods do you accept?",
+                                        "tab_content": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.<\/p>",
+                                        "_id": "d6867aa"
+                                    },
+                                    {
+                                        "tab_title": "Can I change my subscription at any time?",
+                                        "tab_content": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.<\/p>",
+                                        "_id": "e6cb9ed"
+                                    },
+                                    {
+                                        "tab_title": "What is included in the price?",
+                                        "tab_content": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.<\/p>",
+                                        "_id": "f4d033f"
+                                    }
+                                ],
+                                "title_color": "#222D39",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Nunito",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "800",
+                                "icon_color": "#222D39",
+                                "icon_active_color": "#FF8A73",
+                                "content_color": "#222D39",
+                                "content_typography_typography": "custom",
+                                "content_typography_font_family": "Nunito",
+                                "content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "content_typography_font_weight": "400",
+                                "tab_active_color": "#FD9E01",
+                                "_padding": {
+                                    "unit": "%",
+                                    "top": "11",
+                                    "right": "0",
+                                    "bottom": "11",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "border_color": "#02010100",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 700
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "accordion",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "8e8713f",
+            "settings": {
+                "structure": "20",
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%"
+            },
+            "elements": [
+                {
+                    "id": "348c6dc4",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "background_background": "classic",
+                        "background_color": "#FFFFFF",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "5",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "border_color": "#FF8264",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "box_shadow_box_shadow_type": "yes",
+                        "box_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 7,
+                            "blur": 40,
+                            "spread": 2,
+                            "color": "rgba(18, 21, 154, 0.1)"
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "40",
+                            "bottom": "0",
+                            "left": "40",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5eef8f47",
+                            "settings": {
+                                "tabs": [
+                                    {
+                                        "tab_title": "How to Install Elementor Page Builder?",
+                                        "tab_content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+                                        "_id": "bd9d5c1"
+                                    },
+                                    {
+                                        "tab_title": "What themes support this Template kit?",
+                                        "tab_content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+                                        "_id": "0e5727c"
+                                    },
+                                    {
+                                        "tab_title": "Missing style sheet error when installing the theme?",
+                                        "tab_content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+                                        "_id": "fd96f43"
+                                    },
+                                    {
+                                        "tab_title": "How to Install Envato Template Kit plugin?",
+                                        "tab_content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+                                        "_id": "0c4a99f"
+                                    },
+                                    {
+                                        "tab_title": "What payment methods do you accept?",
+                                        "tab_content": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.<\/p>",
+                                        "_id": "d6867aa"
+                                    },
+                                    {
+                                        "tab_title": "Can I change my subscription at any time?",
+                                        "tab_content": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.<\/p>",
+                                        "_id": "e6cb9ed"
+                                    },
+                                    {
+                                        "tab_title": "What is included in the price?",
+                                        "tab_content": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.<\/p>",
+                                        "_id": "f4d033f"
+                                    }
+                                ],
+                                "title_color": "#222D39",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Nunito",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "800",
+                                "icon_color": "#222D39",
+                                "icon_active_color": "#FF8A73",
+                                "content_color": "#222D39",
+                                "content_typography_typography": "custom",
+                                "content_typography_font_family": "Nunito",
+                                "content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "content_typography_font_weight": "400",
+                                "tab_active_color": "#FD9E01",
+                                "_padding": {
+                                    "unit": "%",
+                                    "top": "11",
+                                    "right": "0",
+                                    "bottom": "11",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "border_color": "#02010100",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 700
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "accordion",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "3db402c7",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "animation": "fadeInUp",
+                        "animation_duration": "fast",
+                        "animation_delay": 0
+                    },
+                    "elements": [
+                        {
+                            "id": "12f4f738",
+                            "settings": {
+                                "image": {
+                                    "id": 1272,
+                                    "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/beautiful-mixed-race-female-customer-service-executive-talking-on-headset-and-working-on-laptop.jpg",
+                                    "alt": "Beautiful Mixed-race female customer service executive talking on headset and working on laptop",
+                                    "source": "library"
+                                },
+                                "align": "right",
+                                "align_mobile": "center",
+                                "width": {
+                                    "unit": "%",
+                                    "size": "80",
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": "94",
+                                    "sizes": []
+                                },
+                                "image_box_shadow_box_shadow_type": "yes",
+                                "image_box_shadow_box_shadow": {
+                                    "horizontal": "50",
+                                    "vertical": "50",
+                                    "blur": "0",
+                                    "spread": "0",
+                                    "color": "#FCAA23"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "26",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_z_index": "2",
+                                "_z_index_mobile": 1,
+                                "_animation": "fadeInUp",
+                                "_background_background": "classic",
+                                "_background_color": "#EE2C2C00"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2601b0b7",
+                            "settings": {
+                                "image": {
+                                    "id": 1264,
+                                    "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/c-jgdfngjfgdf-removebg-preview.png",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": "203"
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": 98,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 310,
+                                    "unit": "px"
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": "81",
+                                    "sizes": []
+                                },
+                                "_offset_x_tablet": {
+                                    "size": 4,
+                                    "unit": "px"
+                                },
+                                "_offset_x_mobile": {
+                                    "size": -6,
+                                    "unit": "px"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": 233,
+                                    "unit": "px"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": 254,
+                                    "unit": "px"
+                                },
+                                "_z_index_mobile": 0,
+                                "_animation": "bounceInLeft"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "42f20e44",
+                            "settings": {
+                                "image": {
+                                    "id": 1262,
+                                    "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/c-jgdfngjfgdf__5_-removebg-preview.png",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": "109"
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": 462,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": 7,
+                                    "unit": "px"
+                                },
+                                "_z_index_mobile": 2,
+                                "_animation": "bounceInRight"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5f56b9b",
+                            "settings": {
+                                "image": {
+                                    "id": 1263,
+                                    "url": "http:\/\/workspace.depautamadre.com\/wp-content\/uploads\/2021\/09\/Untitled_design__2_-removebg-preview.png",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "_z_index": 3,
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": "127"
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": 68,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": -3,
+                                    "unit": "px"
+                                },
+                                "_animation": "zoomIn",
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": "68",
+                                    "sizes": []
+                                },
+                                "_offset_x_tablet": {
+                                    "size": -25,
+                                    "unit": "px"
+                                },
+                                "_offset_x_mobile": {
+                                    "size": -37,
+                                    "unit": "px"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": -2,
+                                    "unit": "px"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": 28,
+                                    "unit": "px"
+                                },
+                                "_animation_delay": 700
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "71382e7d",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%"
+            },
+            "elements": [
+                {
+                    "id": "67120732",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "2ba3bd18",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3901a5fd",
+                            "settings": {
+                                "title": "Still have a question?",
+                                "header_size": "span",
+                                "align": "center",
+                                "title_color": "#000000",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "_padding": {
+                                    "unit": "%",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "05",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 700
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "369feb82",
+                            "settings": {
+                                "text": "Ask your question here",
+                                "align": "center",
+                                "selected_icon": {
+                                    "value": "far fa-user",
+                                    "library": "fa-regular"
+                                },
+                                "background_color": "#FCAA23",
+                                "hover_color": "#FD9E01",
+                                "button_background_hover_color": "#FD9E0100",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Nunito",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "600",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "size": "lg",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "border_border": "solid",
+                                "border_width": {
+                                    "unit": "px",
+                                    "top": "2",
+                                    "right": "2",
+                                    "bottom": "2",
+                                    "left": "2",
+                                    "isLinked": true
+                                },
+                                "border_color": "#FD9E01",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "24",
+                                    "right": "24",
+                                    "bottom": "24",
+                                    "left": "24",
+                                    "isLinked": true
+                                },
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "32",
+                                    "bottom": "16",
+                                    "left": "32",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 900,
+                                "align_mobile": "justify"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "7e53e972",
+            "settings": [],
+            "elements": [
+                {
+                    "id": "2c20186",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "39cb35ac",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

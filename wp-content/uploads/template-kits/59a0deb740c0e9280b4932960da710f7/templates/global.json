@@ -1,0 +1,48 @@
+{
+    "version": "0.4",
+    "title": "Global Kit Styles",
+    "type": "section",
+    "metadata": {
+        "template_type": "global-styles",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "additional_template_information": [
+            "These are the global theme styles configured through the Elementor Theme Styles area."
+        ]
+    },
+    "content": [],
+    "page_settings": {
+        "default_generic_fonts": "Sans-serif",
+        "global_image_lightbox": "yes",
+        "space_between_widgets": {
+            "unit": "px",
+            "size": ""
+        },
+        "viewport_md": "",
+        "viewport_lg": "",
+        "custom_colors": [
+            {
+                "_id": "6523acee",
+                "title": "Saved Color #5",
+                "color": "#4054B2"
+            },
+            {
+                "_id": "5fa119ae",
+                "title": "Saved Color #6",
+                "color": "#23A455"
+            },
+            {
+                "_id": "1d2ccfc9",
+                "title": "Saved Color #7",
+                "color": "#000"
+            },
+            {
+                "_id": "78db8e20",
+                "title": "Saved Color #8",
+                "color": "#FFF"
+            }
+        ],
+        "viewport_mobile": "",
+        "viewport_tablet": ""
+    }
+}
