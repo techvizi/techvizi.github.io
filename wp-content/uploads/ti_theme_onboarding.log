@@ -1,0 +1,19 @@
+[18/Mar/2021:17:10:33] (I): WordPress Instance Info:
+[18/Mar/2021:17:10:33] (I): Home URL : http://localhost:8080/photo1/wordpress
+[18/Mar/2021:17:10:33] (I): Site URL : http://localhost:8080/photo1/wordpress
+[18/Mar/2021:17:10:33] (I): WordPress Version : 5.7
+[18/Mar/2021:17:10:33] (I): Onboarding Version : 1.1.6
+[18/Mar/2021:17:10:33] (I): Multisite : No
+[18/Mar/2021:17:10:33] (I): Server Info : Apache/2.4.46 (Win64) OpenSSL/1.1.1j PHP/7.3.27
+[18/Mar/2021:17:10:33] (I): PHP Version : 7.3.27
+[18/Mar/2021:17:10:33] (I): HTTPS : No
+[18/Mar/2021:17:10:33] (I): PHP Max Execution Time : 120
+[18/Mar/2021:17:10:33] (I): PHP Max Input Vars : 1000
+[18/Mar/2021:17:10:33] (I): Max Upload Size : 41943040
+[18/Mar/2021:17:10:33] (I): Plugins:
+[18/Mar/2021:17:10:33] (I): [PLUGIN] Arile Extra : v2.3 (ThemeArile)
+[18/Mar/2021:17:10:33] (I): [PLUGIN] Classic Editor : v1.6 (WordPress Contributors)
+[18/Mar/2021:17:10:33] (I): [PLUGIN] Smash Balloon Instagram Feed : v2.8.2 (Smash Balloon)
+[18/Mar/2021:17:10:33] (I): [PLUGIN] Jetpack by WordPress.com : v9.5 (Automattic)
+[18/Mar/2021:17:10:33] (I): [PLUGIN] Templates Patterns Collection : v1.1.6 (ThemeIsle)
+[18/Mar/2021:17:10:33] (I): [PLUGIN] Theme Freesia Demo Import : v1.0.3 (Theme Freesia)
